@@ -1,0 +1,6 @@
+Onion => Tomato = 100%
+Tomato => Onion = 75%
+Rice => Wheat = 100%
+Wheat => Rice = 100%
+Cucumber => Corn = 100%
+Corn => Cucumber = 100%
